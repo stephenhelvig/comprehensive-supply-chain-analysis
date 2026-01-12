@@ -41,15 +41,23 @@ The analysis was designed to investigate:
 
 ## Repository Structure
 ```
-├── notebooks/
+├── Scripts/
 │   ├── DataCo_exploration_and_cleaning__6_1_.ipynb
 │   ├── Data_Visualization_Exploration__6_2_.ipynb
 │   ├── Geospatial_Analysis__6_3_.ipynb
 │   ├── Supervised_Machine_Learning__6_4_.ipynb
 │   ├── Unsupervised_Machine_Learning__6_5_.ipynb
 │   └── Time_Series_Analysis__6_6_.ipynb
-├── data/
-│   └── [NOTE: Please add your CSV file names here]
+├── Data/
+│   ├── Original Data/
+│   │   └── DescriptionDataCoSupplyChainRefined.csv
+│   └── Prepared Data/
+│       ├── dataco_cluster_summary.csv
+│       ├── dataco_country_stats.csv
+│       ├── dataco_daily_timeseries.csv
+│       ├── dataco_department_stats.csv
+│       └── dataco_main_clustered.csv.zip
+├── Visualizations/
 └── README.md
 ```
 
