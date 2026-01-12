@@ -50,7 +50,12 @@ The analysis was designed to investigate:
 │   └── Time_Series_Analysis__6_6_.ipynb
 ├── Data/
 │   ├── Original Data/
-│   │   └── DescriptionDataCoSupplyChainRefined.csv
+│   │   ├── DataCoSupplyChainDatasetRefined.csv.zip
+│   │   ├── DescriptionDataCoSupplyChainRefined.csv
+│   │   ├── dest_points.geojson
+│   │   ├── routes.geojson.zip
+│   │   ├── src_points.geojson
+│   │   └── world_countries.json
 │   └── Prepared Data/
 │       ├── dataco_cluster_summary.csv
 │       ├── dataco_country_stats.csv
@@ -83,7 +88,6 @@ This project reinforced the critical importance of early data quality validation
 
 - **Primary Dataset:** Refined DataCo Supply Chain Geospatial Dataset, Kaggle
 - **Original Work:** Constante, F., Silva, F., & Pereira, A. DataCo Smart Supply Chain For Big Data Analysis
-- **Geospatial Data:** [NOTE: Please specify if you used additional shapefiles or geographic data sources]
 
 ## Contact
 
