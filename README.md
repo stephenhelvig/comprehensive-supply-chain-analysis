@@ -76,7 +76,7 @@ The analysis was designed to investigate:
 
 ## Analysis Results
 
-**Tableau Storyboard:** https://public.tableau.com/views/DataCoSupplyChainAnalysis_17682497658410/DataCoAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Tableau Storyboard:** [DataCo Supply Chain Analysis](https://public.tableau.com/views/DataCoSupplyChainAnalysis_17682497658410/DataCoAnalysis)
 
 The interactive storyboard presents key methodology demonstrations and findings. Note that this storyboard focuses on analytical techniques and data quality assessment rather than traditional business insights due to the synthetic nature of the dataset.
 
