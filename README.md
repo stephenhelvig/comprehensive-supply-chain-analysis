@@ -8,7 +8,6 @@ This project demonstrates comprehensive analytical methodology applied to supply
 
 **Dataset:** Refined DataCo Supply Chain Geospatial Dataset  
 **Source:** [Kaggle](https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial-dataset) 
-
 **Original Authors:** Fabian Constante, Fernando Silva, and António Pereira  
 **Records:** 180,519 supply chain transactions  
 **Time Period:** January 1, 2015 - January 31, 2018  
